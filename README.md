@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Farhan
 
-I'm a University of Waterloo-educated 🇵🇰🇨🇦🇺🇸 Software Engineer based in Seattle, WA.  
+I'm a University of Waterloo-educated Software Engineer based in Seattle, WA.  
 By day, I build testing frameworks and developer tooling. By night, I chase curiosity.
 
 ---
